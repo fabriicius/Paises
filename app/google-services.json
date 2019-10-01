@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802260662361",
+    "firebase_url": "https://paises-dc72a.firebaseio.com",
+    "project_id": "paises-dc72a",
+    "storage_bucket": "paises-dc72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802260662361:android:295828c93bc5079ed95948",
+        "android_client_info": {
+          "package_name": "com.fabricius.app.paisesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802260662361-6o49g4apc46b2qdqh8o7t8em6t6i1g88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fabricius.app.paisesapp",
+            "certificate_hash": "72f815692af531872224b3cf7a4cdacf61145ecb"
+          }
+        },
+        {
+          "client_id": "802260662361-ekvadalqnnjqu0ne3bc4ehdr9hrkg80v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxfvMK8iqHg-6nJS9H366Kb1ALOSflgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802260662361-ekvadalqnnjqu0ne3bc4ehdr9hrkg80v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
